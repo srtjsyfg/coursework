@@ -1,0 +1,69 @@
+2022-04-22 17:51:03,553 INFO (StartupInfoLogger.java:55)- Starting DashboardPortalApplication using Java 12.0.1 on LAPTOP-78HQRED5 with PID 1268 (C:\Users\admin\Documents\WeChat Files\wxid_5rgww32wxeb622\FileStorage\File\2022-04\dashboard-master\dashboard-master\dashboard-portal\target\classes started by admin in C:\Users\admin\Documents\WeChat Files\wxid_5rgww32wxeb622\FileStorage\File\2022-04\dashboard-master)
+2022-04-22 17:51:03,559 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2022-04-22 17:51:04,559 INFO (RepositoryConfigurationDelegate.java:250)- Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-04-22 17:51:04,562 INFO (RepositoryConfigurationDelegate.java:128)- Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-04-22 17:51:04,593 INFO (RepositoryConfigurationDelegate.java:188)- Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+2022-04-22 17:51:05,310 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 8081 (http)
+2022-04-22 17:51:05,320 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8081"]
+2022-04-22 17:51:05,321 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2022-04-22 17:51:05,321 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.41]
+2022-04-22 17:51:05,457 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2022-04-22 17:51:05,457 INFO (ServletWebServerApplicationContext.java:289)- Root WebApplicationContext: initialization completed in 1855 ms
+2022-04-22 17:51:05,580 INFO (DruidDataSourceAutoConfigure.java:56)- Init DruidDataSource
+2022-04-22 17:51:07,460 INFO (DruidDataSource.java:998)- {dataSource-1} inited
+2022-04-22 17:51:08,603 WARN (TableInfoHelper.java:342)- Can not find table primary key in Class: "com.techtree.portal.model.DO.StudentCourseRelation".
+2022-04-22 17:51:08,603 WARN (DefaultSqlInjector.java:56)- class com.techtree.portal.model.DO.StudentCourseRelation ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2022-04-22 17:51:09,643 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'applicationTaskExecutor'
+2022-04-22 17:51:10,174 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8081"]
+2022-04-22 17:51:10,190 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 8081 (http) with context path ''
+2022-04-22 17:51:10,485 WARN (OperationImplicitParameterReader.java:170)- Unable to interpret the implicit parameter configuration with dataType: long, dataTypeClass: class java.lang.Void
+2022-04-22 17:51:10,536 INFO (StartupInfoLogger.java:61)- Started DashboardPortalApplication in 7.424 seconds (JVM running for 8.5)
+2022-04-22 17:51:15,501 INFO (ExecutorConfigurationSupport.java:218)- Shutting down ExecutorService 'applicationTaskExecutor'
+2022-04-22 17:51:15,516 INFO (DruidDataSource.java:2071)- {dataSource-1} closing ...
+2022-04-22 17:51:15,522 INFO (DruidDataSource.java:2144)- {dataSource-1} closed
+2022-04-22 17:51:19,764 INFO (StartupInfoLogger.java:55)- Starting DashboardPortalApplication using Java 12.0.1 on LAPTOP-78HQRED5 with PID 7860 (C:\Users\admin\Documents\WeChat Files\wxid_5rgww32wxeb622\FileStorage\File\2022-04\dashboard-master\dashboard-master\dashboard-portal\target\classes started by admin in C:\Users\admin\Documents\WeChat Files\wxid_5rgww32wxeb622\FileStorage\File\2022-04\dashboard-master)
+2022-04-22 17:51:19,769 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2022-04-22 17:51:20,678 INFO (RepositoryConfigurationDelegate.java:250)- Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-04-22 17:51:20,681 INFO (RepositoryConfigurationDelegate.java:128)- Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-04-22 17:51:20,714 INFO (RepositoryConfigurationDelegate.java:188)- Finished Spring Data repository scanning in 20 ms. Found 0 Redis repository interfaces.
+2022-04-22 17:51:21,387 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 8081 (http)
+2022-04-22 17:51:21,397 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8081"]
+2022-04-22 17:51:21,398 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2022-04-22 17:51:21,398 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.41]
+2022-04-22 17:51:21,524 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2022-04-22 17:51:21,524 INFO (ServletWebServerApplicationContext.java:289)- Root WebApplicationContext: initialization completed in 1716 ms
+2022-04-22 17:51:21,626 INFO (DruidDataSourceAutoConfigure.java:56)- Init DruidDataSource
+2022-04-22 17:51:23,829 INFO (DruidDataSource.java:998)- {dataSource-1} inited
+2022-04-22 17:51:24,885 WARN (TableInfoHelper.java:342)- Can not find table primary key in Class: "com.techtree.portal.model.DO.StudentCourseRelation".
+2022-04-22 17:51:24,886 WARN (DefaultSqlInjector.java:56)- class com.techtree.portal.model.DO.StudentCourseRelation ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2022-04-22 17:51:25,897 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'applicationTaskExecutor'
+2022-04-22 17:51:26,411 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8081"]
+2022-04-22 17:51:26,426 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 8081 (http) with context path ''
+2022-04-22 17:51:26,628 WARN (OperationImplicitParameterReader.java:170)- Unable to interpret the implicit parameter configuration with dataType: long, dataTypeClass: class java.lang.Void
+2022-04-22 17:51:26,672 INFO (StartupInfoLogger.java:61)- Started DashboardPortalApplication in 7.284 seconds (JVM running for 8.082)
+2022-04-22 17:57:48,522 INFO (ExecutorConfigurationSupport.java:218)- Shutting down ExecutorService 'applicationTaskExecutor'
+2022-04-22 17:57:48,538 INFO (DruidDataSource.java:2071)- {dataSource-1} closing ...
+2022-04-22 17:57:48,544 INFO (DruidDataSource.java:2144)- {dataSource-1} closed
+2022-04-22 17:57:53,711 INFO (StartupInfoLogger.java:55)- Starting DashboardPortalApplication using Java 12.0.1 on LAPTOP-78HQRED5 with PID 10304 (C:\Users\admin\Documents\WeChat Files\wxid_5rgww32wxeb622\FileStorage\File\2022-04\dashboard-master\dashboard-master\dashboard-portal\target\classes started by admin in C:\Users\admin\Documents\WeChat Files\wxid_5rgww32wxeb622\FileStorage\File\2022-04\dashboard-master)
+2022-04-22 17:57:53,717 INFO (SpringApplication.java:660)- No active profile set, falling back to default profiles: default
+2022-04-22 17:57:54,641 INFO (RepositoryConfigurationDelegate.java:250)- Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-04-22 17:57:54,644 INFO (RepositoryConfigurationDelegate.java:128)- Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-04-22 17:57:54,675 INFO (RepositoryConfigurationDelegate.java:188)- Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+2022-04-22 17:57:55,344 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 8081 (http)
+2022-04-22 17:57:55,352 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8081"]
+2022-04-22 17:57:55,353 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2022-04-22 17:57:55,354 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.41]
+2022-04-22 17:57:55,491 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2022-04-22 17:57:55,491 INFO (ServletWebServerApplicationContext.java:289)- Root WebApplicationContext: initialization completed in 1726 ms
+2022-04-22 17:57:55,598 INFO (DruidDataSourceAutoConfigure.java:56)- Init DruidDataSource
+2022-04-22 17:57:57,761 INFO (DruidDataSource.java:998)- {dataSource-1} inited
+2022-04-22 17:57:59,036 WARN (TableInfoHelper.java:342)- Can not find table primary key in Class: "com.techtree.portal.model.DO.StudentCourseRelation".
+2022-04-22 17:57:59,037 WARN (DefaultSqlInjector.java:56)- class com.techtree.portal.model.DO.StudentCourseRelation ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2022-04-22 17:58:00,087 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'applicationTaskExecutor'
+2022-04-22 17:58:00,623 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8081"]
+2022-04-22 17:58:00,648 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 8081 (http) with context path ''
+2022-04-22 17:58:00,852 WARN (OperationImplicitParameterReader.java:170)- Unable to interpret the implicit parameter configuration with dataType: long, dataTypeClass: class java.lang.Void
+2022-04-22 17:58:00,901 INFO (StartupInfoLogger.java:61)- Started DashboardPortalApplication in 7.587 seconds (JVM running for 8.648)
+2022-04-22 18:24:40,799 INFO (ExecutorConfigurationSupport.java:218)- Shutting down ExecutorService 'applicationTaskExecutor'
+2022-04-22 18:24:40,816 INFO (DruidDataSource.java:2071)- {dataSource-1} closing ...
+2022-04-22 18:24:40,822 INFO (DruidDataSource.java:2144)- {dataSource-1} closed
